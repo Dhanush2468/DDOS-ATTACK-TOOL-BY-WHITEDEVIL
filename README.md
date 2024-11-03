@@ -50,5 +50,8 @@ Example:
 python3 ddos.py --time 5000 --threads 550 --target https://giet.ac.in/ --method HTTP
 ```
 
+RESULT :
+![image](https://github.com/user-attachments/assets/4fd40b04-3a4a-4f4d-bfdc-09a2cb30fd79)
+
 
 
