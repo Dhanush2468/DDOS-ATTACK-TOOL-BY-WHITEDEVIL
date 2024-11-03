@@ -2,9 +2,10 @@
 <div align="center">
 </div>
 
+
 # :computer: Welcome
 <p align="center">
-  <img src="https://ctftalkz.xyz/user_avatar/ctftalkz.xyz/celikd/288/454_2.png">
+  <img src="https://github.com/user-attachments/assets/8dee4873-6758-4747-90c7-8755ff069887">
 </p>
 
 # ⛔ INSTALL
