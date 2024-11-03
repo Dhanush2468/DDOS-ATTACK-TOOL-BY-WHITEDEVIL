@@ -2,7 +2,7 @@
 <div align="center">
 </div>
 
-# :computer: Tampilan
+# :computer: Welcome
 <p align="center">
   <img src="https://ctftalkz.xyz/user_avatar/ctftalkz.xyz/celikd/288/454_2.png">
 </p>
@@ -20,7 +20,7 @@
 
  
 
- <h2>Linux</h2><img src="https://raw.githubusercontent.com/8fn/overload/main/img/linux-icon-28166.png" width="50" height="50">
+ <h2>Linux</h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11tp5q3Bc5nb3EYXL3uvcFjkSWzkT43hdSQ&s" width="50" height="50">
 
 ```
 sudo apt update
